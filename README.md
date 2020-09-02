@@ -10,4 +10,4 @@ Android app used to fetch real time values of bitcoin and ethereum cryptocurrenc
 [Watch Demo Video Here](https://www.youtube.com/watch?v=1nkNyY3lAwI)
 
 ## Your Feedback
-Please use the cryptwise app and if you come across any bug, if you have any feature suggestion, please open an issue in this repository and I will try to resolve it as soon as possible. If you like this project please 🌟 this repository.
+Please use the cryptwise app and if you come across any bug, if you have any feature suggestion, please open an issue in this repository and I will try to resolve it as soon as possible.
